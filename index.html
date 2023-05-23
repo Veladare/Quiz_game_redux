@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Game</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+    <main class="container">
+
+        <section id="frontpage">
+            <h1>This quiz tests your coding knowledge</h1>
+            <div class = flex-container>
+                <button id="beginbtn">Begin Quiz</button>
+                <button id="startPageHighscore" onclick="showHighscore()">High Scores</button>
+            </div>
+        </section>
+
+        
+        <section id="quiz">
+            <div id="timer">Time Remaining: </div>
+                <div id="questions"></div>
+                    <button id="1" onclick="checkAnswer('1')"></button>
+                    <button id="2" onclick="checkAnswer('2')"></button>
+                    <button id="3" onclick="checkAnswer('3')"></button>
+                    <button id="4" onclick="checkAnswer('4')"></button>
+         </section>
+        
+        <section id="endscreen">
+            <div id="finalScore"></div>
+            <label for="initials">Enter your initials!</label>
+            <input type="text" name="initials" id="initials" />
+            <button id="submitScore">Submit Score</button>
+        </section>
+        <section id="scorecontainer">
+            <div id="scorepage">
+                <div id="score-header">
+                    <h3>User Initials</h3>
+                    <h3>Score</h3>
+                </div>
+                
+                <div id="highscore-initials"></div>
+                <div id="highscore-score"></div>             
+        
+                <div id="endGameBtns">
+                    <button id="playAgain" onclick="replayQuiz()">Play Again</button>
+                    <button id="clearHighscore" onclick="clearScore()">Clear Highscores</button>
+                </div>
+            
+            </div>
+        </section>    
+    </main>
+
+    <script src="./assets/script.js"></script>
+</body>
+</html>
