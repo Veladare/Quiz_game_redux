@@ -1,0 +1,122 @@
+* {
+    font-family: Arial;
+    font-weight: bold;
+    color: black;
+}
+
+#questions {
+    text-align: center;
+    font-size: 24px;
+    margin: 10px;
+}
+
+
+input {
+    width: 40ch;
+    text-align: center
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+.flex-container {
+    flex-direction: row;
+}
+
+button {
+    width: 200px;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    margin-top: 3px;
+}
+
+button:hover {
+    box-shadow: 4px 3px 6px black;
+}
+
+#frontpage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#timer {
+    font-size: 24px;
+    text-shadow: .5px .5px black;
+    text-align: center;
+}
+
+#quiz,
+#endscreen,
+#leaderboardpage,
+#leaderboardcontainer,
+#endGameBtns {
+    display: none;
+}
+
+#endscreen {
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#highScore {
+    height: 16px;
+    border: 2px;
+}
+
+#leaderboardpage {
+    width: 50%;
+}
+
+#leaderboard-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+#leaderboardcontainer {
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#initials {
+    margin: 8px;
+    height: 16px;
+}
+
+#leaderboard-initials {
+    display: inline-block;
+    padding-left: 157px;
+}
+
+#leaderboard-score {
+    float: right;
+    padding-right: 140px;
+}
+
+#finalScore {
+    padding-bottom: 8px;
+    font-size: 24px;
+}
+
+#quiz {
+    text-align: center;
+}
+#endGameBtns {
+    justify-content: center;
+    padding-top: 25px;
+}
+#timer {
+    margin: 10px;
+
+}
