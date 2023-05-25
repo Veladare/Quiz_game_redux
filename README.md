@@ -29,7 +29,7 @@ Chris, Kolade. "HTML Button onclick – JavaScript Click Event Tutorial." freeCo
 Please refer to the LICENSE in the repo.
 
 ## Screenshot
-Front page - > (https://github.com/Veladare/Quiz_game_redux/assets/126302466/d38e059b-120a-4d99-a4c7-3b3d7b853ef7)
+Frontpage - > (https://github.com/Veladare/Quiz_game_redux/assets/126302466/d38e059b-120a-4d99-a4c7-3b3d7b853ef7)
 
 Leaderboard -> (https://github.com/Veladare/Quiz_game_redux/assets/126302466/1e89cff8-0ad5-4286-99e7-96d5120409e6)
 
