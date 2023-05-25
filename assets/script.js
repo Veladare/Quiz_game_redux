@@ -63,7 +63,7 @@ var quizQuestions = [{
       
   
   ];
-  
+
 var finalQuestionIndex = quizQuestions.length;
 var currentQuestionIndex = 0;
 var timeLeft = 70;
