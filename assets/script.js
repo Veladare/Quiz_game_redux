@@ -120,7 +120,7 @@ function generateQuizQuestion(){
   }
   
 
-
+// "Build a Quiz App (9) - Load and Display High Scores from Local Storage." YouTube, uploaded by James Q Quick, 16 Feb. 2019, https://www.youtube.com/watch?v=jfOv18lCMmw&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF&index=9.
 submitScoreBtn.addEventListener("click", function highscore(){
     
     
@@ -147,8 +147,9 @@ submitScoreBtn.addEventListener("click", function highscore(){
     }
     
 });
+// "Build a Quiz App (9) - Load and Display High Scores from Local Storage." YouTube, uploaded by James Q Quick, 16 Feb. 2019, https://www.youtube.com/watch?v=jfOv18lCMmw&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF&index=9.*/
 
-
+// "Build a Quiz App (9) - Load and Display High Scores from Local Storage." YouTube, uploaded by James Q Quick, 16 Feb. 2019, https://www.youtube.com/watch?v=jfOv18lCMmw&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF&index=9.
 function generatescores() {
   showleaderboardname.textContent = "";
   showleaderboardscore.textContent = "";
@@ -166,6 +167,8 @@ function generatescores() {
     showleaderboardscore.innerHTML += addScore;
   });
 }
+// "Build a Quiz App (9) - Load and Display High Scores from Local Storage." YouTube, uploaded by James Q Quick, 16 Feb. 2019, https://www.youtube.com/watch?v=jfOv18lCMmw&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF&index=9. */
+
 function showScore(){
   quizSection.style.display = "none"
   endscreenSection.style.display = "flex";

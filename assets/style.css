@@ -15,7 +15,7 @@ input {
     width: 40ch;
     text-align: center
 }
-
+/* https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/# */
 .container {
     width: 100vw;
     height: 100vh;
@@ -25,6 +25,8 @@ input {
     max-width: 80rem;
     margin: 0 auto;
 }
+/* https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/# */
+
 .flex-container {
     flex-direction: row;
 }
