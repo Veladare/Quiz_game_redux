@@ -35,4 +35,4 @@ Leaderboard -> (https://github.com/Veladare/Quiz_game_redux/assets/126302466/1e8
 
 Quiz question -> (https://github.com/Veladare/Quiz_game_redux/assets/126302466/579dfb3a-a85f-469a-8e9d-e5026f52aafd)
 
-Leaderboard -> (https://github.com/Veladare/Quiz_game_redux/assets/126302466/2bb49d5c-1058-4eb5-b192-98ec78a18208)
+Endscreen -> (https://github.com/Veladare/Quiz_game_redux/assets/126302466/2bb49d5c-1058-4eb5-b192-98ec78a18208)
