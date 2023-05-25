@@ -5,7 +5,7 @@ Deployed https://veladare.github.io/Quiz_game_redux/
 
 The purpose of this project is to create a quiz that tests knowledge of students with coding questions. 
 
-In completing this project, I learn how to use get element by ID, how to create a for loop that stores correct answers, how to create a leaderboard that save users score by using Json, how to use event listeners to create dynamic buttons that change the page when clicked, and how to create a timer that deducts time when an incorrect answer is selected. 
+In completing this project, I learn how to use get element by ID, how to create a for loop that stores correct answers, how to create a leaderboard that save users score by using Json and localstorage, how to use event listeners to create dynamic buttons that change the page when clicked, and how to create a timer that deducts time when an incorrect answer is selected. 
 ## Installation 
 
 N/A
